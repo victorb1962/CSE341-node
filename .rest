@@ -1,0 +1,5 @@
+### Hello world!
+GET http://localhost:3000 HTTP/1.1
+
+### Display joke
+GET http://localhost:3000/joke HTTP/1.1
